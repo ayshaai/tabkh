@@ -1,0 +1,7 @@
+{
+  "name": "tabkh",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
